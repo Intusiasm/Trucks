@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\bin\Debug\Library.exe.config
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\bin\Debug\Library.exe
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\bin\Debug\Library.pdb
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.BookOrderForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.MainForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.Inherits.FormWithShadow.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.exe
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.pdb
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.DeleteForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.AboutForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4\Library\obj\Debug\Library.Forms.UpdateForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\bin\Debug\Library.exe.config
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\bin\Debug\Library.exe
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\bin\Debug\Library.pdb
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Forms.AddTruckForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Forms.DeleteForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Forms.MainForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Forms.Inherits.FormWithShadow.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Forms.UpdateForm.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.exe
+C:\Users\user\Desktop\LibraryWinApp-fe0bf5bac266656abfab96f7778541b3bb3115b4 — копия\Library\obj\Debug\Library.pdb
